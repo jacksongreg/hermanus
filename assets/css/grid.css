@@ -1,0 +1,19 @@
+
+.clearfix{
+  content: "";
+  display:table;
+  clear: both;
+}
+
+.navigation{
+  display: flex;
+  z-index: 100;
+}
+
+.logo {
+    width: 20%;
+}
+.topnav{
+  width: 80%;
+  position: flex;
+}
